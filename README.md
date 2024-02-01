@@ -6,6 +6,10 @@ Web CMD Simulator in pure and vanilla JavaScript, just for fun.
 
 This project is a web-based command line simulator that replicates some of the functionality of the Command Prompt (CMD) on a Windows operating system. It is built using HTML, CSS (using Tailwind CSS), and JavaScript. The simulator provides users with a familiar interface similar to the native command line interface, allowing them to run commands and execute some operations.
 
+## Demo
+
+You can play the demo in Github Pages accessing [https://adaiasmagdiel.github.io/web-cmd-simulator/](https://adaiasmagdiel.github.io/web-cmd-simulator/).
+
 ## Possible (but not guaranteed) functionalities
 
 - Command execution: Users can enter commands in the simulator and get the respective output.
