@@ -13,7 +13,7 @@ You can play the demo in Github Pages accessing [https://adaiasmagdiel.github.io
 ## Possible (but not guaranteed) functionalities
 
 - Command execution: Users can enter commands in the simulator and get the respective output.
-- History (soon): The simulator maintains a history of executed commands for reference.
+- History: The simulator maintains a history of executed commands for reference.
 - Command autocomplete (maybe sometime): The simulator suggests command options based on user input.
 - Output customization (Definitely not yet, but you can send a pull request): Users can modify the appearance and style of the output text.
 - File system simulation (Yes, somehow): The simulator replicates a file system, allowing users to navigate directories and perform file operations.
@@ -41,7 +41,6 @@ Yes, there's no `help` yet and `dir` command have no flags by now.
 
 - Enter a command in the input prompt and press Enter to execute it.
 - Use the up and down arrows to navigate through command history.
-- Press Tab to autocomplete commands or file/directory names.
 - Customize the appearance of the output by applying CSS classes to the generated HTML.
 
 ## License
