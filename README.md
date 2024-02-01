@@ -46,4 +46,4 @@ Yes, there's no `help` yet and `dir` command have no flags by now.
 
 ## License
 
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). See the [LICENSE](LICENSE) file for details.
